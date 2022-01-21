@@ -1,4 +1,4 @@
-#Thiết kế hiện thị thông tin bài tập dưới đây trên một trang
+
 web <br><b>
 1.Viết PHP script để lấy thông tin cấu hình và phiên bản của PHP <br></b>
 <?php
