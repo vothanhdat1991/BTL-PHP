@@ -6,6 +6,7 @@ $pass= $_POST["txtpass"];
 $phone= $_POST["txtphone"];
 $email= $_POST["txtemail"];
 $diachi= $_POST["txtdiachi"];
+$diachi= $_POST["txtdiachi"];
 $gt= $_POST["sex"];
 $conn = mysqli_connect("localhost","root","");
 mysqli_select_db($conn,"project");
